@@ -9,10 +9,12 @@
 import matrix
 import vector
 
+import constants as c
+
 
 def main():
     """ main function in program """
-    a_matrix = matrix.Matrix(183211)
+    a_matrix = matrix.Matrix(c.index)
 
     for row in a_matrix.generate_matrix(5+2, -1, 2):
         print(row)
