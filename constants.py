@@ -12,4 +12,4 @@ e_var = fourth_ix_dig
 f_var = third_ix_dig
 a1_var = 5 + e_var
 
-N_var = 9 * fifth_ix_dig * fourth_ix_dig
+N_var = 911
